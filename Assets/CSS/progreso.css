@@ -1,0 +1,27 @@
+body{
+    font-family: 'Arial', sans-serif; 
+    color:#A00E2C 
+}
+
+.secciones {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:  white;
+    padding: 10px;
+}
+
+.clicka  {
+    text-decoration: none;
+    color: #A00E2C;
+    padding: 10px;
+    border: 1px solid  #A00E2C;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.secciones a:hover {
+    background-color: #AA5E70;
+
+}
