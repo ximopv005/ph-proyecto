@@ -33,7 +33,7 @@ body{
 }
 
 .t{
-    width: 800px; /* Ajusta el ancho del contenedor izquierdo según tus necesidades */
+    width: 700px; /* Ajusta el ancho del contenedor izquierdo según tus necesidades */
       background-color: #f0f0f0;
       padding: 20px;
       float: right; /* Coloca el contenedor a la izquierda */
